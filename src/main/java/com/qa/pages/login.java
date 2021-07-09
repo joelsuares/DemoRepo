@@ -9,4 +9,10 @@ public class login {
 	public void set() {
 		System.out.println("set");
 	}
+	
+	public void tearup() {
+		System.out.println("tearup");
+	}
+	
+	
 }
